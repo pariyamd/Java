@@ -1,0 +1,2 @@
+public class West {
+}
